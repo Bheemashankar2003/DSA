@@ -45,7 +45,7 @@ public class Intersection {
         for(int n : set){
             result[index++] = n;
         }
-
+        
         return result;
     }
 
