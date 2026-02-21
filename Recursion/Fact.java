@@ -12,5 +12,6 @@ public class Fact {
         }
         else
          return n*fact(n-1);
+    
     }
 }
