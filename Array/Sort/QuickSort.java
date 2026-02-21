@@ -1,8 +1,8 @@
-package OOPS;
+package Array.Sort;
 
 import java.util.Arrays;
 
-abstract class Abc {
+abstract class QuickSort {
     public static void main(String[] args) {
         
         int [] arr = {60, 10, 80, 40, 20, 30, 90, 70};

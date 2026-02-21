@@ -1,4 +1,4 @@
-package Array;
+package Recursion;
 
 public class Median {
     public static double medianArr(int [] nums , int [] nums2){
